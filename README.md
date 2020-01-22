@@ -3,6 +3,7 @@ This repository contains work completed during Spring 2020 in Dr. Murray's DIG46
 
 ## Structure
 The *ice* folder contains in-class exercises. 
+This is a sample
 
 ## About Me
 
