@@ -1,4 +1,4 @@
-import Adder from "./Adder.js";
+var Adder = require("./Adder.js");
 
 var input ={
     a:10,
