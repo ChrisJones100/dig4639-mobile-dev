@@ -9,8 +9,8 @@ class Card extends Component {
         };
     }
 
-    redner() {
-        return <p className="card">{this.state.content}</p>;
+    render() {
+        <p className="card">{this.state.content}</p>;
     }
 }
 
