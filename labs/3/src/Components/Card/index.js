@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from "./node_modules/react";
 import "./index.css";
 
 class Card extends Component {
@@ -10,7 +10,7 @@ class Card extends Component {
     }
 
     render() {
-        <p className="card">{this.state.content}</p>;
+        return <p className="card">{this.state.content}</p>;
     }
 }
 
