@@ -1,6 +1,7 @@
 import React, { Component } from "./node_modules/react";
 import "./index.css";
 
+//Card class
 class Card extends Component {
     constructor(props) {
         super(props);
