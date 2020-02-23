@@ -1,4 +1,4 @@
-import React, { Component } from "./node_modules/react";
+import React, { Component } from "react";
 import "./index.css";
 
 //Card class
@@ -11,7 +11,7 @@ class Card extends Component {
     }
 
     render() {
-        return <p> className="card">{this.state.content}</p>;
+        return <p className="card">{this.state.content}</p>;
     }
 }
 
