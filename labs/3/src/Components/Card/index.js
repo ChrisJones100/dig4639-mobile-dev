@@ -10,7 +10,7 @@ class Card extends Component {
     }
 
     render() {
-        return <p className="card">{this.state.content}</p>;
+        return <p> className="card">{this.state.content}</p>;
     }
 }
 
