@@ -1,13 +1,18 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import Card from "./components/Card/index.js";
+import CardList from "./components/CardList";
+import CardListData from "./data.json";
 
 ///Implement card class
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
   render() {
-    return <Card content="This is a card!"></Card> 
-  };
+    let list = <CardList data={CardListData.cards}></CardList>;
+    return list;
+  }
 }
 
 export default App;
