@@ -1,0 +1,38 @@
+[
+  {
+    "content": "What does the wordcloud do on the program Orange?",
+    "options": ["Takes the most used words from a particular subject or tweet", "Combines popular words to make phrases", "Gives new and improved words from a preselected word"],
+    "index": 0,
+    "correctAnswer": "Takes the most used words from a particular subject or tweet"
+  },
+  {
+    "content": "What did twitter's 2016 algorithm change do?",
+    "options": ["showed more tweets from the people you interact with most","Put less popular accounts post behind mainstream accounts in response towards account size"],
+    "index": 1,
+    "correctAnswer": "showed more tweets from the people you interact with most"
+  },
+  {
+    "content": "What was Twitter’s original name?",
+    "options": ["Twitter", "Twttr", "Tweeter", "Twitr"],
+    "index": 2,
+    "correctAnswer": "Twttr"
+  },
+  {
+    "content": "Among popular news and current event website, what percentage of tweeted links are made by suspected bots?",
+    "options": ["50%", "45%", "36%", "66%"],
+    "index": 3,
+    "correctAnswer": "66%"
+  },
+  {
+    "content": "Can twitter bots be both harmful and helpful?",
+    "options": ["yes","no"],
+    "index": 4,
+    "correctAnswer": "yes"
+  },
+  {
+    "content": "Do algorithms involve human bias?",
+    "options": ["yes", "no"],
+    "index": 5,
+    "correctAnswer": "yes"
+  }
+]
