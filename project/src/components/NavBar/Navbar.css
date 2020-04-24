@@ -1,0 +1,25 @@
+.mainHeading {
+  font-size: 50px;
+  font-weight: 900;
+  color: black;
+  text-align: left;
+  padding-top: 0px;
+  padding-left: 10px;
+}
+
+.actionButton {
+  color: rgb(0, 128, 255);
+  font-size: large;
+  padding-left: 25px;
+  background-color: transparent;
+  border: none;
+  text-align: right;
+  vertical-align: baseline;
+  margin-left: auto;
+  margin-right: 3em;
+}
+
+.hStack {
+  display: flex;
+  align-items: baseline;
+}

@@ -1,0 +1,17 @@
+.dataForm {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 20em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-align: center;
+  padding: 01em;
+  /* display: flexbox; */
+  text-align: left;
+  border-radius: 1em;
+  display: inline-block;
+}
+
+.dataForm input {
+  width: 100%;
+  clear: both;
+}

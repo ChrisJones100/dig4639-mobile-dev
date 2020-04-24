@@ -1,0 +1,19 @@
+.headercell {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 20em;
+  /* margin: auto; */
+  margin-left: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  text-align: center;
+  padding: 01em;
+  display: flex;
+  align-items: center;
+  border-radius: 5em;
+}
+
+.profilePic {
+  border-radius: 50%;
+  height: 100px;
+  align-content: flex-start;
+}
